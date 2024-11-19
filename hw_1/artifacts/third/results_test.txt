@@ -1,0 +1,21 @@
+1)
+python third_wc.py \hw_1\artifacts\third\4_lines_15_words_80_characters.txt \hw_1\artifacts\third\2_lines_5_words_27_characters.txt \hw_1\artifacts\third\0_lines_0_words_0_characters.txt \hw_1\artifacts\third\3_lines_9_words_46_characters.txt 
+
+Output:
+4 15 80 H:\My_Projects\python_itmo\hw_1\artifacts\third\4_lines_15_words_80_characters.txt
+2 5 27 H:\My_Projects\python_itmo\hw_1\artifacts\third\2_lines_5_words_27_characters.txt
+0 0 0 H:\My_Projects\python_itmo\hw_1\artifacts\third\0_lines_0_words_0_characters.txt
+3 9 46 H:\My_Projects\python_itmo\hw_1\artifacts\third\3_lines_9_words_46_characters.txt
+9 29 153 total
+
+2)
+python third_wc.py
+
+Input:
+dsdd
+     !
+alallald ds
+sss
+
+Output:
+4 5 27
