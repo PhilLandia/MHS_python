@@ -1,0 +1,73 @@
+1)
+python second_tail.py \hw_1\artifacts\second\test_files\empty.txt
+
+Output:
+(empty string)
+
+2)
+python second_tail.py \hw_1\artifacts\second\test_files\9_lines.txt
+
+Output:
+CnF9CqHBQ6
+2bg9rpAwIa
+GCna7ts61q
+Xh78lz99fE
+NL7AZ6jGkt
+WqFtE5MB6e
+CiIBQOqxpE
+HWJfhENLW0
+uKQhgBNUs8
+
+3)
+python second_tail.py \hw_1\artifacts\second\test_files\15_lines.txt
+
+Output:
+5IKYKDtftZ0
+8vSPulstNUL
+QiW 9O8mjFGy
+VPsf9LRn KIn
+5rlQTvNz8Gf
+U7 f8YjAIoE1
+YIJ DSSFhqg5
+s N7H4MVsc92
+HzmAnDATRbZ
+Bo0jwadeu0A
+
+4)
+python second_tail.py \hw_1\artifacts\second\test_files\15_lines.txt \hw_1\artifacts\second\test_files\22_lines.txt \hw_1\artifacts\second\test_files\9_lines.txt \hw_1\artifacts\second\test_files\empty.txt
+
+==> H:\My_Projects\python_itmo\hw_1\artifacts\second\test_files\15_lines.txt <==
+5IKYKDtftZ0
+8vSPulstNUL
+QiW 9O8mjFGy
+VPsf9LRn KIn
+5rlQTvNz8Gf
+U7 f8YjAIoE1
+YIJ DSSFhqg5
+s N7H4MVsc92
+HzmAnDATRbZ
+Bo0jwadeu0A
+==> H:\My_Projects\python_itmo\hw_1\artifacts\second\test_files\22_lines.txt <==
+8y
+QC
+bb
+TK
+3S
+tT
+Og
+Gn
+93
+2L
+
+==> H:\My_Projects\python_itmo\hw_1\artifacts\second\test_files\9_lines.txt <==
+CnF9CqHBQ6
+2bg9rpAwIa
+GCna7ts61q
+Xh78lz99fE
+NL7AZ6jGkt
+WqFtE5MB6e
+CiIBQOqxpE
+HWJfhENLW0
+uKQhgBNUs8
+==> H:\My_Projects\python_itmo\hw_1\artifacts\second\test_files\empty.txt <==
+

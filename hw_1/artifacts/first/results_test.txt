@@ -1,0 +1,25 @@
+1)
+python first_nl.py \hw_1\artifacts\first\test_files\empty.txt
+
+Output:
+(empty output)
+
+2)
+python first_nl.py \hw_1\artifacts\first\test_files\multi_line.txt
+
+Output:
+1 Hello
+2 World
+3 Python
+4 fsdsfsdf
+
+3)
+python first_nl.py \hw_1\artifacts\first\test_files\with_empty_lines.txt
+1 Line 1
+2 
+3 Line 3
+4
+5
+6 ddsdsd
+
+
