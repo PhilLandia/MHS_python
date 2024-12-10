@@ -49,7 +49,7 @@ if __name__ == "__main__":
 
     processes_time = run_processes(n, runs)
 
-    with open("fibonacci_timing_results.txt", "w") as file:
+    with open("artifacts/fibonacci_timing_results.txt", "w") as file:
         file.write(f"Synchronous execution time: {sync_time:.2f} seconds\n")
         file.write(f"Threads execution time: {threads_time:.2f} seconds\n")
         file.write(f"Processes execution time: {processes_time:.2f} seconds\n")

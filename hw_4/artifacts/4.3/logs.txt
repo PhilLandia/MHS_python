@@ -1,0 +1,4 @@
+[2024-12-10 23:43:35] Main process: Starting.
+Enter a message (or 'STOP' to terminate): HI THERE
+[2024-12-10 23:43:50] Process A: Received 'HI THERE', transformed to 'hi there'.
+[2024-12-10 23:43:50] Process B: Received 'hi there', encoded to 'uv gurer'.

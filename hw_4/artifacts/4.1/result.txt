@@ -1,0 +1,3 @@
+Synchronous execution time: 19.31 seconds
+Threads execution time: 19.39 seconds
+Processes execution time: 2.51 seconds
